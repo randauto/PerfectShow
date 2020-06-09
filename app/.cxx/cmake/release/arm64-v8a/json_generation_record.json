@@ -1,0 +1,46 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- force flag, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json E:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file E:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027E:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027E:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HE:\\learning\\github\\PerfectShow\\app\\src\\main\\cpp\n-BE:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\learning\\github\\PerfectShow\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\n-DOpenCV_DIR\u003dD:\\Downloads\\OpenCV-2.4.11-android-sdk/sdk/native/jni\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HE:\\learning\\github\\PerfectShow\\app\\src\\main\\cpp\n-BE:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\learning\\github\\PerfectShow\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\n-DOpenCV_DIR\u003dD:\\Downloads\\OpenCV-2.4.11-android-sdk/sdk/native/jni\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe with arguments {-HE:\\learning\\github\\PerfectShow\\app\\src\\main\\cpp -BE:\\learning\\github\\PerfectShow\\app\\.cxx\\cmake\\release\\arm64-v8a -DANDROID_ABI\u003darm64-v8a -DANDROID_PLATFORM\u003dandroid-21 -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\learning\\github\\PerfectShow\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a -DCMAKE_BUILD_TYPE\u003dRelease -DANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646 -DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions -DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake -DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe -GAndroid Gradle - Ninja -DOpenCV_DIR\u003dD:\\Downloads\\OpenCV-2.4.11-android-sdk/sdk/native/jni}\n-- Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\n-- Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\n-- Detecting C compiler ABI info\n-- Detecting C compiler ABI info - done\n-- Detecting C compile features\n-- Detecting C compile features - done\n-- Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\n-- Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\n-- Detecting CXX compiler ABI info\n-- Detecting CXX compiler ABI info - done\n-- Detecting CXX compile features\n-- Detecting CXX compile features - done\n-- Configuring incomplete, errors occurred!\nSee also \"E:/learning/github/PerfectShow/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log\".\n\nCMake Error at CMakeLists.txt:5 (find_package):\n  Could not find a configuration file for package \"OpenCV\" that is compatible\n  with requested version \"4.0\".\n\n  The following configuration files were considered but not accepted:\n\n    D:/Downloads/OpenCV-2.4.11-android-sdk/sdk/native/jni/OpenCVConfig.cmake, version: 2.4.11\n\n\n\n"
+  }
+]

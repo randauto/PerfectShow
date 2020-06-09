@@ -13,7 +13,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.1'
+        classpath 'com.android.tools.build:gradle:4.0.0'
 
 //        implementation 'com.github.bumptech.glide:glide:4.6.1'
 //        annotationProcessor 'com.github.bumptech.glide:compiler:4.6.1'
@@ -36,11 +36,11 @@ allprojects {
 // modules in the project.
 ext {
     // The following are only a few examples of the types of properties you can define.
-    compileSdkVersion = 28
-    buildToolsVersion = "28.0.3"
+    compileSdkVersion = 29
+    buildToolsVersion = "29.0.3"
 
     minSdkVersion = 21
-    targetSdkVersion = 28
+    targetSdkVersion = 29
 
     // You can also create properties to specify versions for dependencies.
     // Having consistent versions between modules can avoid conflicts with behavior.
